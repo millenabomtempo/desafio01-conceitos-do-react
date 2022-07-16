@@ -16,6 +16,7 @@ App created at Rocketseat's Ignite course.
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [ReactJS](https://pt-br.reactjs.org/)
+- [SASS](https://sass-lang.com/)
 
 ## :computer: How to run
 
