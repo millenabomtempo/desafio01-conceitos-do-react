@@ -29,7 +29,7 @@ $ yarn install or npm install
 # Run application
 $ yarn dev or npm run dev
 
-# The aplication will init at port:3000 - access http://localhost:3000/
+# The aplication will init at port:8080 - access http://localhost:8080/
 ```
 
 <p align="center"> Made with :heart: by <a href="https://github.com/millenabomtempo">Millena Bomtempo</a></p>
